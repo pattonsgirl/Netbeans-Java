@@ -1,5 +1,10 @@
 # Installation of Java + Netbeans
-This guide is for Programming Classes at Wright State University
+This guide is for Programming Classes at Wright State University.  This guide will install the software setup currently installed in CSE labs.  Once newer versions have been tested, this guide will be updated.
+
+JDK version: 8
+Netbeans version: 8.2
+
+Use (Apache Netbeans 11)[https://netbeans.apache.org/download/] at your own risk.  Our labs installs use Netbeans 8.2, not 11
 
 ## For Windows
 
