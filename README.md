@@ -5,10 +5,11 @@ JDK version: 8
 
 Netbeans version: 8.2
 
-Use [Apache Netbeans 11](https://netbeans.apache.org/download/) at your own risk.  Our labs installs use Netbeans 8.2, not 11
+Use [Apache Netbeans 11](https://netbeans.apache.org/download/) at your own risk.  Our labs use Netbeans 8.2, not 11
 
-For all versions, download the installer from here:
-https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html
+For all Operating Systems (Windows, Mac, Linux), download the installer from here:
+- https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html
+
 This installer is a lovely bundle that includes: Netbeans 8.2 AND JDK 8 (and the JRE)
 
 ## For Windows
