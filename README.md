@@ -30,7 +30,8 @@ This installer is a lovely bundle that includes: Netbeans 8.2 AND JDK 8 (and the
 ### Environment Variables for Java on Windows
 If you opened Netbeans and things look normal, you're good to go, ignore this section.  If Netbeans won't open or it's acting "wrong", you get to experience setting environment variables.
 
-Remember when I said to remember what directory JDK installed to?  
+Remember when I said to remember what directory JDK installed to?  If you forgot and didn't change the defaults, it should be here: `C:\Program Files\Java\`  Browse to there, and acknowlege which version of jdk you installed.  Follow the guide below:
+- https://javatutorial.net/set-java-home-windows-10
 
 ## For Mac / Apple
 - [Download the installer for Mac](http://download.oracle.com/otn-pub/java/jdk-nb/8u111-8.2/jdk-8u111-nb-8_2-macosx-x64.dmg)
