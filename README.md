@@ -1,9 +1,8 @@
 # Installation of Java + Netbeans
 This guide is for Programming Classes at Wright State University.  This guide will install the software setup currently installed in CSE labs.  Once newer versions have been tested, this guide will be updated.
 
-JDK version: 8
-
-Netbeans version: 8.2
+- JDK version: 8
+- Netbeans version: 8.2
 
 Use [Apache Netbeans 11](https://netbeans.apache.org/download/) at your own risk.  Our labs use Netbeans 8.2, not 11
 
@@ -28,8 +27,10 @@ This installer is a lovely bundle that includes: Netbeans 8.2 AND JDK 8 (and the
 - Click Install to begin the installation
 - At the Setup Complete page, provide anonymous usage data if desired, and click Finish
 
-### Environment Variables
+### Environment Variables for Java on Windows
 If you opened Netbeans and things look normal, you're good to go, ignore this section.  If Netbeans won't open or it's acting "wrong", you get to experience setting environment variables.
+
+Remember when I said to remember what directory JDK installed to?  
 
 ## For Mac / Apple
 - [Download the installer for Mac](http://download.oracle.com/otn-pub/java/jdk-nb/8u111-8.2/jdk-8u111-nb-8_2-macosx-x64.dmg)
@@ -45,15 +46,14 @@ If you opened Netbeans and things look normal, you're good to go, ignore this se
 - The Installation page displays the progress of the installation.
 - When the installation is complete, click Close at the Summary page.
 
-For NetBeans 8.2, jdk 12 is not compatible, so you need to install jdk 8
-To set an environment variable, follow this guide:
-https://medium.com/@himanshuagarwal1395/setting-up-environment-variables-in-macos-sierra-f5978369b255
-
-You will still need to edit the netbeans.conf file, as can be found in this guide:
-https://www.cs.wcupa.edu/rkline/index/netbeans-mac.html
-
 ### Environment Variables
 If you opened Netbeans and things look normal, you're good to go, ignore this section.  If Netbeans won't open or it's acting "wrong", you get to experience setting environment variables.
+
+If you followed the guide above, you installed JDK 8.  If you installed a different version of JDK while tinkering, this will fix it.  To set the environment variables, follow this guide:
+- https://medium.com/@himanshuagarwal1395/setting-up-environment-variables-in-macos-sierra-f5978369b255
+
+You will still need to edit the netbeans.conf file, as can be found in this guide:
+- https://www.cs.wcupa.edu/rkline/index/netbeans-mac.html
 
 ## For Linux
 OMG. You use Linux?  I use Linux!  This is gonna be great.
