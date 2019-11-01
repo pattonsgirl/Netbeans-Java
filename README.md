@@ -74,6 +74,8 @@ OMG. You use Linux?  I use Linux!  This is gonna be great.
 - At the Setup Complete page, provide anonymous usage data if desired, and click Finish.
 - When the installation is complete, you can view the log file, which resides in the following directory: `~/.nbi/log`
 Note: If you choose to install this bundle into a system-wide location such as /usr/local, you must first login as root to gain the necessary permissions.
+  
+[Instructions were borrowed from official site](https://www.oracle.com/technetwork/java/javase/downloads/install-jdk6-22nb691-177131.html).  Environmental variable guides are mine
 
 ### Environment Variables
 If you opened Netbeans and things look normal, you're good to go, ignore this section.  If Netbeans won't open or it's acting "wrong", you get to experience setting environment variables.
