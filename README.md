@@ -12,7 +12,7 @@ For all Operating Systems (Windows, Mac, Linux), download the installer from her
 This installer is a lovely bundle that includes: Netbeans 8.2 AND JDK 8 (and the JRE)
 
 ## For Windows
-- [Download the installer for Windows](http://download.oracle.com/otn-pub/java/jdk-nb/8u111-8.2/jdk-8u111-nb-8_2-windows-x64.exe).  Note: this is the 64 bit installer.  
+- Download the installer for Windows
 - Find the installer (usually your Downloads folder)
 - Double-click the installer file to run the installer
 - At the Welcome page of the installation wizard, click Next
@@ -34,7 +34,7 @@ Remember when I said to remember what directory JDK installed to?  If you forgot
 - https://javatutorial.net/set-java-home-windows-10
 
 ## For Mac / Apple
-- [Download the installer for Mac](http://download.oracle.com/otn-pub/java/jdk-nb/8u111-8.2/jdk-8u111-nb-8_2-macosx-x64.dmg)
+- Download the installer for Mac
 - After the download completes, run the installer. The installer file has the .dmg extension
 - On the panel that opens double-click the package icon. The package has the .mpkg extension. The installation wizard starts
 - At the Introduction page of the installation wizard, click Continue
@@ -58,7 +58,7 @@ You will still need to edit the netbeans.conf file, as can be found in this guid
 
 ## For Linux
 OMG. You use Linux?  I use Linux!  This is gonna be great.
-- [Download the installer for Linux](http://download.oracle.com/otn-pub/java/jdk-nb/8u111-8.2/jdk-8u111-nb-8_2-linux-x64.sh)
+- Download the installer for Linux
 - Navigate to the directory into which you downloaded the installer file and type:
   - chmod +x <installer-file-name> to change the installer file's permissions so it can be executed.
 - Installing the Software
